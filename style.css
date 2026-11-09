@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./image/img4.webp);
+    background-image: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+header{
+    background-color: rgb(105, 3, 118);
+    padding: 25px;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 60px;
+}
+h2{
+    text-align: center;
+    padding: 80px;
+    font-size: 60px;
+}
+ul li{
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(70, 133, 204);
+    font-size: 30px;
+}
+ul li a:hover{
+    color: rgb(245, 241, 10);
+}
