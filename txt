@@ -1,0 +1,15 @@
+1. Qual exercício você mais curtiu? Por quê?
+Gosteo bastante dos exercicios sobre filmes e música, mesmo que seja simples aparecer um alert na tela perguntando coisas que o usuario gosta é bme legal
+essa interação com o usuario é muito importante.
+
+2. De 1 a 5, quanto ficou claro? Dê uma nota para for, array, if / else e switch.
+2,5. Mas é porque não consegui praticar por fora então me perdi nas funções de cada uma.
+
+3. Onde você mais travou? O que te fez destravar?
+As funcionalidades de cada tipo, arrays, for, white, mas eu uso a IA pra me explicar eu aprendo praticando e conversando então usa ia pra tirar as dúvidas.
+
+4. Você usou IA? O que perguntou? (Não tem resposta certa, queremos saber como você estuda.)
+Eu colo o cód e escrevo o que eu não endi ele me explica depois peço que faça pequenos exercicio eu responde ele corrigi e mostra onde estou errando e onde comecei a melhorar, dependendo do assunto eu converso pra poder fixar.
+
+5. O que você sonha criar com programação?
+Nossa, bom vou começar com o site da minha mãe, depois um que aude os jovens a estudar e bom esse é a longo prazo, mas quero criar um robo humanoide que posso penssar sozinho, (Ainda estou descobrindo o que ele vai fazer)

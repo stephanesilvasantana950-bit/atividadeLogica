@@ -9,14 +9,20 @@
     <h1>ESCOLHA O SEU PLANO</h1>
 
     <script>
-        let opcao = prompt("Escolha um plano:\n1 - Básico\n2 - Padrão\n3 - Premium");
+        let opcao = prompt("Escolha um plano:\n1 - Pleno\n2 - Senior\n3 - Plano\n4 - Plano Familia");
 
         switch (opcao){
-            case "1": alert("Básico: R$ 19,90  por mês"); break;
-            case "2": alert("Básico: R$ 39,90  por mês"); break;
-            case "3": alert("Básico: R$ 69,90  por mês"); break;
+            case 1 : alert("Junior: R$ 19,90  por mês"); break;
+            case "2": alert("Pleno: R$ 39,90  por mês"); break;
+            case "3": alert("Senior: R$ 69,90  por mês"); break;
+            case "4": alert("Plano Familia: R$ 79,90  por mês"); break;
             default: alert("Opção inválida");
         }
     </script>
+    <!--
+    1. Feito
+    2. Aparece na lista normalmente
+    3. O break serve para interromper o loop quando uma condição é atendida. O default aparece no switch quando nenhuma das opções corresponde ao valor informado.
+    -->
 </body>
 </html>
