@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>MOSTRANDO A PLAYLIST</h1>
+    
+    <script>
+        let musicas = ["Anjos de Plantão","Dolce","Yellow","That's So True","Lisboa","Till l Collapse"];
+
+        document.write("<h2>Minha Playlist</h2>");
+
+        for (let i = 0; i < musicas.length; i++){
+            document.write((i + 1) + ". " + musicas[i] + "<br>");
+        }
+
+        document.write("<p>Total: " + musicas.length + " músicas</p>");
+    </script>
+</body>
+</html>
